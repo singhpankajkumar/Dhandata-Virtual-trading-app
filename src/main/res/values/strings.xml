@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Dhandata</string>
+    <string name="welcome">Welcome to Virtual Trading app</string>
+    <string name="forgot">forgot password</string>
+    <string name="hintusername">Enter your Email or Mobile no</string>
+    <string name="hintpassword">Enter your Password</string>
+    <string name="iconlogin">Login</string>
+    <string name="iconsignup">SignUp</string>
+    <string name="newuser">Create a New Account?</string>
+    <string name="portfolio">Porfolio</string>
+    <string name="pnl"><![CDATA[P&L]]></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
